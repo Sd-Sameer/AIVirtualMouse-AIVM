@@ -1,0 +1,10 @@
+touch .gitignore (file name/)
+git config --global user.name "name"
+git config --global user.email "Email"
+git init
+git add.
+git commit -m "Initial Commit"
+git status # Just to see
+ssh-keygen
+git remote add origin <ssh url.git>
+git push origin master
